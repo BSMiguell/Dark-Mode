@@ -50,7 +50,9 @@ export default { props: ["mode"] };
 }
 .content h3 {
   text-align: center;
-  font-size: 4rem;
+  font-size: 3rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .gallery-container {
